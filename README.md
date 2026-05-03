@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2500&color=2196F3&width=435&repeat=false&lines=Hello+there,+i'm+Alex+Magalhães!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=2000&pause=1500&color=F7F7F7&multiline=true&repeat=false&width=810&lines=Computer+Science+Undergraduate+at+Federal+University+of+Technology+of+Paran%C3%A1+(UTFPR);Focusing+on+Full-Stack+Development.)](https://git.io/typing-svg)
+[![Tema Escuro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=2000&pause=1500&color=F7F7F7&multiline=true&repeat=false&width=810&lines=Computer+Science+Undergraduate+at+Federal+University+of+Technology+of+Paran%C3%A1+(UTFPR);Focusing+on+Full-Stack+Development.#gh-dark-mode-only)](https://git.io/typing-svg)
+[![Tema Claro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=2000&pause=1500&color=333333&multiline=true&repeat=false&width=810&lines=Computer+Science+Undergraduate+at+Federal+University+of+Technology+of+Paran%C3%A1+(UTFPR);Focusing+on+Full-Stack+Development.#gh-light-mode-only)](https://git.io/typing-svg)
 
 ---
 
